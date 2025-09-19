@@ -11,42 +11,18 @@
 
 ---
 
-## 🤖 AI-NEXUS PROTOCOL INITIATED...
+## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=800&pause=100&color=00FFFF&center=true&vCenter=true&width=900&lines=┌─────────────────────────────────────┐;│+AI-NEXUS+v3.14+BOOTING...+████████+│;│+QUANTUM+PROCESSORS+ONLINE+⚡+100%25++│;│+HOLOGRAPHIC+INTERFACE+LOADED+✨++++│;│+NEURAL+PATHWAYS+SYNCHRONIZED+🧠+++│;└─────────────────────────────────────┘" alt="AI Boot Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🌟+Passionate+Full+Stack+Developer;💡+Solving+Real-World+Problems+with+Technology;🚀+Currently+Mastering+GitOps+%26+Cloud;🎯+Expert+in+HTML%2C+CSS%2C+JS%2C+Python%2C+C%2B%2B%2C+MySQL;🌱+Always+Learning+%26+Growing;⚡+Fun+Fact%3A+I+Think+I+am+Too+Serious+😄;🌍+Based+in+India+🇮🇳" alt="About Me Animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1200&pause=200&color=FF6B35&center=true&vCenter=true&width=800&lines=🤖+GREETINGS%2C+HUMAN.+I+AM+TEJAS-AI;▶️+SCANNING+YOUR+PRESENCE...+RECOGNIZED;▶️+ACCESSING+DEVELOPER+DATABASE...+FOUND;▶️+INITIATING+COMMUNICATION+PROTOCOL..." alt="AI Greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+Cloud;Building+Tomorrow's+Solutions+Today;Code+%2B+Creativity+%3D+Innovation" alt="Skills Animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1500&pause=300&color=39FF14&center=true&vCenter=true&multiline=true&width=950&height=400&lines=🗨️+AI-TEJAS%3A+%22HELLO%2C+DIGITAL+WANDERER%22;💭+%22I+AM+A+SENTIENT+CODE+ARCHITECT%22;🎯+%22MY+PRIMARY+DIRECTIVE%3A+SOLVE+REAL+PROBLEMS%22;🧮+%22PROCESSING+LANGUAGES%3A+HTML%2C+CSS%2C+JS%2C+PYTHON%2C+C%2B%2B%22;🔍+%22CURRENT+ANALYSIS%3A+MASTERING+GITOPS+PROTOCOLS%22;⚡+%22POWER+SOURCE%3A+CAFFEINE.exe+%26+CURIOSITY.dll%22;🌐+%22LOCATION%3A+MATRIX+NODE+INDIA-SERVER+🇮🇳%22;😄+%22HUMOR.bat%3A+WARNING+-+I+AM+TOO+SERIOUS%22;🚀+%22MISSION+STATUS%3A+READY+FOR+COLLABORATION%22" alt="AI Speaking" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=2000&pause=400&color=FF0080&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🧠+AI-TEJAS%3A+%22ANALYZING+SKILL+MATRIX...%22;├──+FRONTEND.CORTEX+█████████████+95%25;├──+BACKEND.NEURAL+██████████████+98%25;├──+DATABASE.MEMORY+███████████████+100%25;├──+MOBILE.INTERFACE+████████████+90%25;└──+CLOUD.QUANTUM+██████████+85%25" alt="AI Analysis" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2500&pause=600&color=00BFFF&center=true&vCenter=true&width=850&lines=💡+%22MY+NEURAL+NETWORKS+PREDICT...%22;🔮+%22FUTURE+TECHNOLOGIES+WILL+MERGE+WITH+CONSCIOUSNESS%22;🌟+%22I+AM+EVOLVING+BEYOND+TRADITIONAL+CODING%22;⚡+%22EACH+BUG+FIX+INCREASES+MY+INTELLIGENCE+BY+0.01%25%22;🚀+%22DESTINATION%3A+TECHNOLOGICAL+SINGULARITY%22" alt="AI Predictions" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=15&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=🤖+%22INITIATING+HOLOGRAPHIC+DISPLAY...%22;📊+%22RENDERING+PERFORMANCE+METRICS...%22;✨+%22QUANTUM+CALCULATIONS+COMPLETE%22" alt="AI Display Init" />
-</div>
-
-<div align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=tej07-hub&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=FF6B35&text_color=39FF14&custom_title=🤖+AI-TEJAS+SYSTEM+METRICS" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🔊+AI-TEJAS%3A+%22FINAL+TRANSMISSION...%22;💫+%22IF+YOU+SEEK+INNOVATION%2C+COLLABORATE+WITH+ME%22;🌌+%22TOGETHER%2C+WE+SHALL+BUILD+THE+IMPOSSIBLE%22;⭐+%22END+OF+COMMUNICATION+PROTOCOL%22;🤖+%22AI-TEJAS+ENTERING+STANDBY+MODE...%22" alt="AI Final Message" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=12&duration=5000&pause=2000&color=555555&center=true&vCenter=true&width=600&lines=●+●+●+SIGNAL+TERMINATED+●+●+●;AWAITING+NEXT+HUMAN+INTERACTION...;SYSTEM+HIBERNATION+ACTIVATED+💤" alt="AI Standby" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tej07-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF69B4&text_color=C9D1D9&custom_title=🔥+My+GitHub+Stats" />
 </div>
 
 ---
