@@ -11,30 +11,42 @@
 
 ---
 
-## 🤖 SYSTEM INITIALIZING...
+## 🤖 AI-NEXUS PROTOCOL INITIATED...
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1000&pause=300&color=00FF41&center=true&vCenter=true&width=800&lines=████████████████████████+100%25;LOADING+DEVELOPER+PROFILE...;ACCESSING+NEURAL+NETWORK...;CONNECTING+TO+MATRIX..." alt="Loading Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=800&pause=100&color=00FFFF&center=true&vCenter=true&width=900&lines=┌─────────────────────────────────────┐;│+AI-NEXUS+v3.14+BOOTING...+████████+│;│+QUANTUM+PROCESSORS+ONLINE+⚡+100%25++│;│+HOLOGRAPHIC+INTERFACE+LOADED+✨++++│;│+NEURAL+PATHWAYS+SYNCHRONIZED+🧠+++│;└─────────────────────────────────────┘" alt="AI Boot Sequence" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1500&pause=200&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=300&lines=%3E%3E+DEVELOPER.EXE+ACTIVATED+%3C%3C;%3E+NAME%3A+TEJAS_BHANSALI.dll;%3E+STATUS%3A+ONLINE+🟢+OPERATIONAL;%3E+MODE%3A+PROBLEM_SOLVER.exe;%3E+CORE_FUNCTION%3A+REAL_WORLD_SOLUTIONS();%3E+CURRENT_PROCESS%3A+GITOPS_LEARNING.run();%3E+ERROR_RATE%3A+0.01%25+(TOO_SERIOUS.bat);%3E+LOCATION%3A+MATRIX_NODE_INDIA_🇮🇳" alt="System Info Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1200&pause=200&color=FF6B35&center=true&vCenter=true&width=800&lines=🤖+GREETINGS%2C+HUMAN.+I+AM+TEJAS-AI;▶️+SCANNING+YOUR+PRESENCE...+RECOGNIZED;▶️+ACCESSING+DEVELOPER+DATABASE...+FOUND;▶️+INITIATING+COMMUNICATION+PROTOCOL..." alt="AI Greeting" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%7B+INITIALIZING+SKILL_MODULES+%7D;[█████████████████████████]+HTML.dll;[█████████████████████████]+CSS.dll;[█████████████████████████]+JAVASCRIPT.exe;[█████████████████████████]+PYTHON.py;[█████████████████████████]+CPP.exe;[█████████████████████████]+MYSQL.db" alt="Skills Loading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1500&pause=300&color=39FF14&center=true&vCenter=true&multiline=true&width=950&height=400&lines=🗨️+AI-TEJAS%3A+%22HELLO%2C+DIGITAL+WANDERER%22;💭+%22I+AM+A+SENTIENT+CODE+ARCHITECT%22;🎯+%22MY+PRIMARY+DIRECTIVE%3A+SOLVE+REAL+PROBLEMS%22;🧮+%22PROCESSING+LANGUAGES%3A+HTML%2C+CSS%2C+JS%2C+PYTHON%2C+C%2B%2B%22;🔍+%22CURRENT+ANALYSIS%3A+MASTERING+GITOPS+PROTOCOLS%22;⚡+%22POWER+SOURCE%3A+CAFFEINE.exe+%26+CURIOSITY.dll%22;🌐+%22LOCATION%3A+MATRIX+NODE+INDIA-SERVER+🇮🇳%22;😄+%22HUMOR.bat%3A+WARNING+-+I+AM+TOO+SERIOUS%22;🚀+%22MISSION+STATUS%3A+READY+FOR+COLLABORATION%22" alt="AI Speaking" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=NEURAL+PATHWAYS%3A+[+ACTIVE+];CREATIVITY.exe+%7C+LOGIC.dll+%7C+INNOVATION.bat;COMPILING+DREAMS+INTO+REALITY...;STACK_OVERFLOW%3A+[+RARELY_NEEDED+];COFFEE.exe+%3D%3D+UNLIMITED_POWER;DEBUGGING_LIFE.exe+RUNNING..." alt="Robotic Thoughts" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=2000&pause=400&color=FF0080&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🧠+AI-TEJAS%3A+%22ANALYZING+SKILL+MATRIX...%22;├──+FRONTEND.CORTEX+█████████████+95%25;├──+BACKEND.NEURAL+██████████████+98%25;├──+DATABASE.MEMORY+███████████████+100%25;├──+MOBILE.INTERFACE+████████████+90%25;└──+CLOUD.QUANTUM+██████████+85%25" alt="AI Analysis" />
 </div>
 
 <div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=tej07-hub&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=FF0080&text_color=00FFFF&custom_title=🤖+SYSTEM_PERFORMANCE_METRICS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2500&pause=600&color=00BFFF&center=true&vCenter=true&width=850&lines=💡+%22MY+NEURAL+NETWORKS+PREDICT...%22;🔮+%22FUTURE+TECHNOLOGIES+WILL+MERGE+WITH+CONSCIOUSNESS%22;🌟+%22I+AM+EVOLVING+BEYOND+TRADITIONAL+CODING%22;⚡+%22EACH+BUG+FIX+INCREASES+MY+INTELLIGENCE+BY+0.01%25%22;🚀+%22DESTINATION%3A+TECHNOLOGICAL+SINGULARITY%22" alt="AI Predictions" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=%3E%3E+MISSION_PARAMETERS%3A;FRONTEND.render()+%7C%7C+BACKEND.process();MOBILE.build()+%26%26+CLOUD.deploy();while(learning)+%7B+knowledge%2B%2B%3B+%7D;return+AWESOME_SOLUTIONS();SYSTEM.STATUS+%3D+READY_TO_COLLABORATE;" alt="Mission Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=15&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=🤖+%22INITIATING+HOLOGRAPHIC+DISPLAY...%22;📊+%22RENDERING+PERFORMANCE+METRICS...%22;✨+%22QUANTUM+CALCULATIONS+COMPLETE%22" alt="AI Display Init" />
+</div>
+
+<div align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=tej07-hub&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=FF6B35&text_color=39FF14&custom_title=🤖+AI-TEJAS+SYSTEM+METRICS" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🔊+AI-TEJAS%3A+%22FINAL+TRANSMISSION...%22;💫+%22IF+YOU+SEEK+INNOVATION%2C+COLLABORATE+WITH+ME%22;🌌+%22TOGETHER%2C+WE+SHALL+BUILD+THE+IMPOSSIBLE%22;⭐+%22END+OF+COMMUNICATION+PROTOCOL%22;🤖+%22AI-TEJAS+ENTERING+STANDBY+MODE...%22" alt="AI Final Message" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=12&duration=5000&pause=2000&color=555555&center=true&vCenter=true&width=600&lines=●+●+●+SIGNAL+TERMINATED+●+●+●;AWAITING+NEXT+HUMAN+INTERACTION...;SYSTEM+HIBERNATION+ACTIVATED+💤" alt="AI Standby" />
 </div>
 
 ---
