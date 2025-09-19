@@ -11,18 +11,30 @@
 
 ---
 
-## 🚀 About Me
+## 🤖 SYSTEM INITIALIZING...
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🌟+Passionate+Full+Stack+Developer;💡+Solving+Real-World+Problems+with+Technology;🚀+Currently+Mastering+GitOps+%26+Cloud;🎯+Expert+in+HTML%2C+CSS%2C+JS%2C+Python%2C+C%2B%2B%2C+MySQL;🌱+Always+Learning+%26+Growing;⚡+Fun+Fact%3A+I+Think+I+am+Too+Serious+😄;🌍+Based+in+India+🇮🇳" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1000&pause=300&color=00FF41&center=true&vCenter=true&width=800&lines=████████████████████████+100%25;LOADING+DEVELOPER+PROFILE...;ACCESSING+NEURAL+NETWORK...;CONNECTING+TO+MATRIX..." alt="Loading Animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+Cloud;Building+Tomorrow's+Solutions+Today;Code+%2B+Creativity+%3D+Innovation" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1500&pause=200&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=300&lines=%3E%3E+DEVELOPER.EXE+ACTIVATED+%3C%3C;%3E+NAME%3A+TEJAS_BHANSALI.dll;%3E+STATUS%3A+ONLINE+🟢+OPERATIONAL;%3E+MODE%3A+PROBLEM_SOLVER.exe;%3E+CORE_FUNCTION%3A+REAL_WORLD_SOLUTIONS();%3E+CURRENT_PROCESS%3A+GITOPS_LEARNING.run();%3E+ERROR_RATE%3A+0.01%25+(TOO_SERIOUS.bat);%3E+LOCATION%3A+MATRIX_NODE_INDIA_🇮🇳" alt="System Info Animation" />
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tej07-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF69B4&text_color=C9D1D9&custom_title=🔥+My+GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%7B+INITIALIZING+SKILL_MODULES+%7D;[█████████████████████████]+HTML.dll;[█████████████████████████]+CSS.dll;[█████████████████████████]+JAVASCRIPT.exe;[█████████████████████████]+PYTHON.py;[█████████████████████████]+CPP.exe;[█████████████████████████]+MYSQL.db" alt="Skills Loading" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=NEURAL+PATHWAYS%3A+[+ACTIVE+];CREATIVITY.exe+%7C+LOGIC.dll+%7C+INNOVATION.bat;COMPILING+DREAMS+INTO+REALITY...;STACK_OVERFLOW%3A+[+RARELY_NEEDED+];COFFEE.exe+%3D%3D+UNLIMITED_POWER;DEBUGGING_LIFE.exe+RUNNING..." alt="Robotic Thoughts" />
+</div>
+
+<div align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=tej07-hub&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=FF0080&text_color=00FFFF&custom_title=🤖+SYSTEM_PERFORMANCE_METRICS" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=%3E%3E+MISSION_PARAMETERS%3A;FRONTEND.render()+%7C%7C+BACKEND.process();MOBILE.build()+%26%26+CLOUD.deploy();while(learning)+%7B+knowledge%2B%2B%3B+%7D;return+AWESOME_SOLUTIONS();SYSTEM.STATUS+%3D+READY_TO_COLLABORATE;" alt="Mission Code" />
 </div>
 
 ---
