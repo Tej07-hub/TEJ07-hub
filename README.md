@@ -13,27 +13,17 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🌟+Passionate+Full+Stack+Developer;💡+Solving+Real-World+Problems+with+Technology;🚀+Currently+Mastering+GitOps+%26+Cloud;🎯+Expert+in+HTML%2C+CSS%2C+JS%2C+Python%2C+C%2B%2B%2C+MySQL;🌱+Always+Learning+%26+Growing;⚡+Fun+Fact%3A+I+Think+I+am+Too+Serious+😄;🌍+Based+in+India+🇮🇳" alt="About Me Animation" />
+</div>
 
-const tejas = {
-    name: "Tejas Bhansali",
-    role: "Full Stack Developer",
-    motto: "Designed to solve real-world problems with technology",
-    currentFocus: "GitOps & Cloud Technologies",
-    funFact: "I think I am too serious 😄",
-    location: "India 🇮🇳",
-    
-    technologies: {
-        frontend: ["HTML", "CSS", "JavaScript", "Angular", "Svelte"],
-        backend: ["Node.js", "Python", "C++", "PHP", "Spring"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-        mobile: ["Flutter", "Android"],
-        cloud: ["Google Cloud", "Firebase"],
-        tools: ["Git", "Selenium", "TensorFlow", "Zapier"]
-    },
-    
-    currentlyLearning: ["GitOps", "DevOps", "Cloud Architecture"],
-    askMeAbout: ["HTML", "CSS", "JS", "Python", "C++", "MySQL"]
-};
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+Cloud;Building+Tomorrow's+Solutions+Today;Code+%2B+Creativity+%3D+Innovation" alt="Skills Animation" />
+</div>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tej07-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF69B4&text_color=C9D1D9&custom_title=🔥+My+GitHub+Stats" />
+</div>
 
 ---
 
