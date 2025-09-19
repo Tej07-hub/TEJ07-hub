@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-```javascript
+
 const tejas = {
     name: "Tejas Bhansali",
     role: "Full Stack Developer",
@@ -34,7 +34,6 @@ const tejas = {
     currentlyLearning: ["GitOps", "DevOps", "Cloud Architecture"],
     askMeAbout: ["HTML", "CSS", "JS", "Python", "C++", "MySQL"]
 };
-```
 
 ---
 
